@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648072908 source:c:\users\kamil\documents\cena_paliwa\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+
